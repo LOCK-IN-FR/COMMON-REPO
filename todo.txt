@@ -1,8 +1,8 @@
 TOPICS TO BE DONE:
                  LEETCODE SUBMISSION    CLI PROJECT    LEARN ANY TOPIC FROM RDBMS/JAVA    PERSONAL TARGET
 11/JUNE/2026
-    KSY      ->               
-    HAACHINI ->          
+    KSY      ->          DONE 
+    HAACHINI ->          DONE
     MOHIT    ->          DONE               DONE                    DONE                        DONE                                    
     
 12/JUNE/2026
